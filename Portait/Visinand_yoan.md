@@ -4,4 +4,3 @@
 >photo de moi prise en classe.
 
 ## **Intérêts dans le multimedia**
-
