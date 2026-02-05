@@ -1,5 +1,4 @@
 # Devenir partagé, pratiques de l'IA
-![photo](photos/affiche_exposition.jpg)
 <img src=photos/affiche_exposition.jpg alt="test" width="500">
 
 ## Lieu
