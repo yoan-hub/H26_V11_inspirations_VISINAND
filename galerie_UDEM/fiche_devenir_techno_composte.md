@@ -10,10 +10,6 @@ Université de Montreal
 
 ## Titre de l'oeuvre
 ![photo](photos/oeuvre_vue_ensemble.jpg)
->Techno-Compost 01 et 02
+>Marie-Êve Levasseur : *Techno-Compost 01 et 02*,2025
 
-## Nom de l'artiste
-Marie-Êve Levasseur
 
-## Année de réalisation
-2025
