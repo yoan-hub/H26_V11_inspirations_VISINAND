@@ -1,4 +1,4 @@
-# Devenir partagé, pratiques de l'IA
+### Devenir partagé, pratiques de l'IA
 ![photo](photos/affiche_exposition.jpg)
 
 ## Lieu
