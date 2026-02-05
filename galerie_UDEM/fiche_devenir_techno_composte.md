@@ -2,7 +2,6 @@
 ![photo](photos/affiche_exposition.jpg)
 
 ## Lieu
-Université de Montreal
 ![photo](photos/edifice-moi.jpg)
 Université de Montreal
 
