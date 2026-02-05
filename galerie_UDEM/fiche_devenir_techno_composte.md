@@ -14,6 +14,8 @@
 ![photo](photos/oeuvre_vue_ensemble.jpg)
 >Marie-Êve Levasseur : *Techno-Compost 01 et 02*, 2025 (photo: YV)
 
+<br>
+
 ## Description
 <img src=photos/cartel_bio.jpg alt="test" width="300">    <img src=photos/cartel_oeuvre.jpg alt="test" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="test" width="300"> 
 
