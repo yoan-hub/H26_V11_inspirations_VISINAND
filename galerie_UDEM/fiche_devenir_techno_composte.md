@@ -3,7 +3,7 @@
 
 ## Lieu
 <img src=photos/edifice-moi.jpg alt="test" width="500">
->ga;e
+>Galerie Université de Montréal
 
 ## Date de visite
 29 Janvier 2026
