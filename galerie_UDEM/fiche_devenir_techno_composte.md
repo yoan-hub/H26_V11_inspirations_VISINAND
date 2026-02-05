@@ -27,5 +27,9 @@
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
 
+<br>
 
+## Mise en espace
+<img src=photos/croquis.jpg alt="test" width="500"> 
 
+>croquis fait par moi (YV)
