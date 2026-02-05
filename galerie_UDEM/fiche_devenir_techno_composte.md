@@ -6,7 +6,7 @@
 
 ## Lieu
 <img src=photos/edifice-moi.jpg alt="test" width="500"> 
->Galerie Université de Montréal
+> Galerie Université de Montréal
 
 ## Titre de l'oeuvre
 ![photo](photos/oeuvre_vue_ensemble.jpg)
