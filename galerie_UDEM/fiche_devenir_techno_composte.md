@@ -2,9 +2,13 @@
 <img src=photos/affiche_exposition.jpg alt="test" width="500">
 
 >(photo: GG)
+
 <br>
+
 ## Date de visite : 29 Janvier 2026
+
 <br>
+
 ## Lieu
 <img src=photos/edifice-moi.jpg alt="test" width="500"> 
 
@@ -21,7 +25,7 @@
 ## Description
 <img src=photos/cartel_bio.jpg alt="test" width="300">    <img src=photos/cartel_oeuvre.jpg alt="test" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="test" width="300"> 
 
->Cartel et texte expicatif de l'oeuvre
+>Cartel et texte expicatif de l'oeuvre (photo: YV)
 
 
 
