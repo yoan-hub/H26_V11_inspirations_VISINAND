@@ -1,5 +1,5 @@
 # Devenir partagé, pratiques de l'IA
-<img src=photos/affiche_exposition.jpg alt="test" width="500">
+<img src=photos/affiche_exposition.jpg alt="photo de affiche de l'expostion" width="500">
 
 >(photo: GG)
 
@@ -10,7 +10,7 @@
 <br>
 
 ## Lieu
-<img src=photos/edifice-moi.jpg alt="test" width="500"> 
+<img src=photos/edifice-moi.jpg alt="photo de moi et mon camarade de classe devant udem" width="500"> 
 
 >Galerie Université de Montréal (photo: YV)
 
@@ -23,13 +23,13 @@
 <br>
 
 ## Description
-<img src=photos/cartel_bio.jpg alt="test" width="300">    <img src=photos/cartel_oeuvre.jpg alt="test" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="test" width="300"> 
+<img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
 
 <br>
 
 ## Mise en espace
-<img src=photos/croquis.jpg alt="test" width="300"> 
+<img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
 
 >croquis fait par moi (YV)
