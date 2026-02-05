@@ -2,9 +2,9 @@
 <img src=photos/affiche_exposition.jpg alt="test" width="500">
 
 >(photo: GG)
-
+<br>
 ## Date de visite : 29 Janvier 2026
-
+<br>
 ## Lieu
 <img src=photos/edifice-moi.jpg alt="test" width="500"> 
 
