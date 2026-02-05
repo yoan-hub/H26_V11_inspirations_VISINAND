@@ -33,3 +33,8 @@
 <img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
 
 >croquis fait par moi (YV)
+
+<br>
+
+## Mon expérience/parcours
+
