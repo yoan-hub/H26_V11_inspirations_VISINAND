@@ -28,6 +28,8 @@ Techno-Composte est une oeuvre immersive et contemplative.
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
 
+Techno-Composte est une oeuvre immersive et contemplative.
+
 <br>
 
 ## Mise en espace
