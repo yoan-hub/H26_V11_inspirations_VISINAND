@@ -2,8 +2,9 @@
 ![photo](photos/affiche_exposition.jpg)
 
 ### Lieu
-![photo](photos/edifice-moi.jpg)
 Université de Montreal
+![photo](photos/edifice-moi.jpg)
+
 
 ### Date de visite
 29 Janvier 2026
