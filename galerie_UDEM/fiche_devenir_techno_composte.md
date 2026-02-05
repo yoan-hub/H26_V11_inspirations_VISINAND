@@ -23,7 +23,6 @@
 <br>
 
 ## Description
-Techno-Composte est une oeuvre immersive et contemplative.
 <img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
