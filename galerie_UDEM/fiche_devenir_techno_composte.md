@@ -30,6 +30,6 @@
 <br>
 
 ## Mise en espace
-<img src=photos/croquis.jpg alt="test" width="500"> 
+<img src=photos/croquis.jpg alt="test" width="300"> 
 
 >croquis fait par moi (YV)
