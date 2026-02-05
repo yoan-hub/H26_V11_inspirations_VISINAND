@@ -17,5 +17,7 @@
 ## Description
 <img src=photos/cartel_bio.jpg alt="test" width="300">    <img src=photos/cartel_oeuvre.jpg alt="test" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="test" width="300"> 
 
+>Cartel et texte expicatif de l'oeuvre
+
 
 
