@@ -25,10 +25,10 @@ Intérieure et temporaire
 
 <br>
 ## Composantes et techniques
-<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300"> 
-<img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
-<img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300"> 
-<img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300"> 
+<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300">  <img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
+
+<img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300"> <img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300"> 
+
 
 ## Description
 <img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
