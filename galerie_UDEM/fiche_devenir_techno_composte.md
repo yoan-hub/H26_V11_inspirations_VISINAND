@@ -33,7 +33,7 @@ Intérieure et temporaire
 
 >Cables de la chaise
 <img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300">
->
+
 >Projecteur
 <img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300">
 
