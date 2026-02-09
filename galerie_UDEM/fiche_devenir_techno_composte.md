@@ -41,7 +41,7 @@ Intérieure et temporaire
 
 <br>
 
-## Description
+## Type d'oeuvre et cartel
 <img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
@@ -55,7 +55,7 @@ Selon moi, à part les composantes, le seul élément nécéssaire et le mur bla
 
 <br>
 
-## Fonction du dispositif
+## Fonction du dispositif 
 L'artiste n'a pas donné de consigne à l'IA pour générer cette oeuvre. Marie-Êve Levasseur à utilisé un modèle inconditionnel génératif pour cette oeuvre. Dans ce cas l'IA génère des images par lui même. Le résultat fu: la décomposition, des et organisme qui se crée.
 
 
