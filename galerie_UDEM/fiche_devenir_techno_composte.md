@@ -24,11 +24,22 @@ Intérieure et temporaire
 >Marie-Êve Levasseur : *Techno-Compost 01 et 02*, 2025 (photo: YV)
 
 <br>
+
 ## Composantes et techniques
-<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300">  <img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
+<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300"> 
 
-<img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300"> <img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300"> 
+>Casque VR
+<img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
 
+>Cables de la chaise
+<img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300">
+>
+>Projecteur
+<img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300">
+
+>Branchement
+
+<br>
 
 ## Description
 <img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
