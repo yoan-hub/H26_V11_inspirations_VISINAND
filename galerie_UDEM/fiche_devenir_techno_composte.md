@@ -51,7 +51,7 @@ Techno-Composte est une oeuvre immersive et contemplative.
 <br>
 
 ## Élément nécéssaire
-Selon moi, à part les composantes, le seul élément nécéssaire et le mur blanc sur lequel le projecteur affiche l'image
+Selon moi, à part les composantes, le seul élément nécéssaire et le mur blanc sur lequel le projecteur affiche l'image.
 
 ## Mise en espace
 <img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
