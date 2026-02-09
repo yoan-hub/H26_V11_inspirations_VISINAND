@@ -9,7 +9,7 @@
 
 <br>
 
-## Lieu
+## Lieu: UdeM
 <img src=photos/edifice-moi.jpg alt="photo de moi et mon camarade de classe devant udem" width="500"> 
 
 >Galerie Université de Montréal (photo: YV)
