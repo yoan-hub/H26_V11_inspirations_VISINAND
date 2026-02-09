@@ -1,7 +1,7 @@
 # Devenir partagé, pratiques de l'IA
 <img src=photos/affiche_exposition.jpg alt="photo de affiche de l'expostion" width="500">
 
->(photo: GG)
+>Affiche de l'exposition(photo: GG)
 
 <br>
 
