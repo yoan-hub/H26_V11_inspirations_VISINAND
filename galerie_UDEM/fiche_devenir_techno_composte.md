@@ -41,7 +41,7 @@ Intérieure et temporaire
 
 <br>
 
-## Type d'oeuvre et cartel
+## Type d'oeuvre/instalation et cartel
 <img src=photos/cartel_bio.jpg alt="cartel" width="300">    <img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
