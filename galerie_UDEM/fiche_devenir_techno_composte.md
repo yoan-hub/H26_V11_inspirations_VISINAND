@@ -5,7 +5,7 @@
 
 <br>
 
-## Date de visite : 29 Janvier 2026
+## Date de visite : Jeudi 29 Janvier 2026
 
 <br>
 
@@ -46,7 +46,7 @@ Intérieure et temporaire
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
 
-Techno-Composte est une oeuvre immersive et contemplative.
+Techno-Composte est une oeuvre immersive et contemplative. En effet, est composé sur des images généré par l'IA. L'oeuvre repose seulement sur des effets visuels, tel l'image projetée, le collage de nombreuse images et le plus la partie la plus immersive, la partie réalité virutelle.
 
 <br>
 
