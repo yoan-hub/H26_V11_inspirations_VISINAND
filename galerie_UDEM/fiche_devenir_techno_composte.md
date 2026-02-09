@@ -54,6 +54,7 @@ Techno-Composte est une oeuvre immersive et contemplative.
 Selon moi, à part les composantes, le seul élément nécéssaire et le mur blanc sur lequel le projecteur affiche l'image.
 
 <br>
+
 ## Fonction du dispositif
 L'artiste n'a pas donné de consigne à l'IA pour générer cette oeuvre. Marie-Êve Levasseur à utilisé un modèle inconditionnel génératif pour cette oeuvre. Dans ce cas l'IA génère des images par lui même. Le résultat fu: la décomposition, des et organisme qui se crée.
 
