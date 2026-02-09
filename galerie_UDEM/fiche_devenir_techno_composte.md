@@ -53,13 +53,17 @@ Techno-Composte est une oeuvre immersive et contemplative.
 ## Élément nécéssaire
 Selon moi, à part les composantes, le seul élément nécéssaire et le mur blanc sur lequel le projecteur affiche l'image.
 
-## Mise en espace
-<img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
-
->croquis fait par moi (YV)
-
 <br>
+## Fonction du dispositif
+L'artiste n'a pas donné de consigne à l'IA pour générer cette oeuvre. Marie-Êve Levasseur à utilisé un modèle inconditionnel génératif pour cette oeuvre. Dans ce cas l'IA génère des images par lui même. Le résultat fu: la décomposition, des et organisme qui se crée.
+
 
 ## Mon expérience/parcours
 Cette œuvre à 4 composante différente, Il y a la première partie, qui est selon moi le collage d'image génèrer par l'IA qui évolue et change. La suite est la grosse image projeté sur le mur adjacentl qui est une réplique d'une des images du collage mais  mis en gros plan pour pouvoir admirer.  Les composantes 3 et 4 focbtionne ensemble: Il y a la chaise et le casque de réalité virtuelle. Il est important de savoir que cette  œuvre contient deux expériences différentes (les deux chaises). La chaise 1 offre une expérience plus "cyber" selon moi, c'est un monde plus "technologie" qui semble être infectés, qu'on peut voir avec les images qui tombe par terre. Par contre la deuxième semble plus organiques avec les images qui volent.
 
+<br>
+
+## Mise en espace
+<img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
+
+>croquis fait par moi (YV)
