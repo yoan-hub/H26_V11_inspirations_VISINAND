@@ -16,6 +16,9 @@
 
 <br>
 
+## Type d'exposotion
+Intérieure et temporaire
+
 ## Titre de l'oeuvre
 ![photo](photos/oeuvre_vue_ensemble.jpg)
 >Marie-Êve Levasseur : *Techno-Compost 01 et 02*, 2025 (photo: YV)
