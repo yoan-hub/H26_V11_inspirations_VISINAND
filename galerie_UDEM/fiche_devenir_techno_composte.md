@@ -74,3 +74,6 @@ Cette œuvre à 4 composante différente, Il y a la première partie, qui est se
 <img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
 
 >croquis fait par moi (YV)
+
+
+## Points forts et points faibles 
