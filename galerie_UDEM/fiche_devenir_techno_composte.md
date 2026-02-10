@@ -26,15 +26,18 @@ Intérieure et temporaire
 <br>
 
 ## Composantes et techniques
-<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300"><img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
+<img src=photos/composantes_techiques_casqueVR.jpg alt="cartel" width="300">
 
 >Casque VR
 
+<img src=photos/composantes_techiques_cables_chaise.jpg alt="cartel" width="300">
 
 >Cables de la chaise
+>
 <img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300">
 
 >Projecteur
+>
 <img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300">
 
 >Branchement
