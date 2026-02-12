@@ -44,12 +44,12 @@ Intérieure et temporaire
 
 <br>
 
-## Type d'oeuvre/instalation et cartel
+## Type d'oeuvre et cartel
 <img src=photos/cartel_bio.jpg alt="cartel" width="300"><img src=photos/cartel_oeuvre.jpg alt="cartel" width="300">    
 
 >Cartel et texte expicatif de l'oeuvre (photo: YV)
 
-Techno-Composte est une oeuvre immersive et contemplative. En effet, est composé sur des images généré par l'IA. L'oeuvre repose seulement sur des effets visuels, tel l'image projetée, le collage de nombreuse images et le plus la partie la plus immersive, la partie réalité virutelle.
+Techno-Composte est une oeuvre immersive et contemplative. En effet, est composé sur des images généré par l'IA. L'oeuvre repose seulement sur des effets visuels, tel l'image projetée, le collage de nombreuse images et le plus la partie la plus immersive: la partie réalité virutelle.
 
 <br>
 
