@@ -60,7 +60,7 @@ Selon moi, à part les composantes, le seul élément nécéssaire et le mur bla
 
 ## Fonction du dispositif et description
 <img src=photos/cartel-vue_ensemble.jpg alt="cartel" width="300"> 
-L'artiste n'a pas donné de consigne à l'IA pour générer cette oeuvre. Marie-Êve Levasseur à utilisé un modèle inconditionnel génératif pour cette oeuvre. Dans ce cas l'IA génère des images par lui même. Le résultat fu: la décomposition, des et organisme qui se crée.
+L'artiste n'a pas donné de consigne à l'IA pour générer cette oeuvre. Marie-Êve Levasseur à utilisé un modèle inconditionnel génératif pour cette oeuvre. Dans ce cas l'IA génère des images par lui même. Le résultat fu: la décomposition, et des organismes qui se créent. Autrement les chaise sont branchées, pour donner une expérience plus immersive avec des vibration pour emballer le visiteur dans un monde virtuel.
 
 <br>
 
@@ -73,7 +73,7 @@ Cette œuvre à 4 composante différente, Il y a la première partie, qui est se
 ## Mise en espace
 <img src=photos/croquis.jpg alt="dessin croquis" width="300"> 
 
->croquis fait par moi (YV)
+>Croquis fait par moi (YV)
 
 
 ## Points forts et points faibles 
