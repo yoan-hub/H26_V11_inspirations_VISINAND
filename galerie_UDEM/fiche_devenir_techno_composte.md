@@ -85,3 +85,8 @@ J'ai aimé les chaises a cause du design insecte avec les barres de métal qui a
 
 
 ### Points faibles
+Les partie les plus faibles de l'installation était le collage d'image IA et la projection.
+Puisuq'il avait de la réalité virutelle, un aspect interactif aurait été interessant.
+Le collage avait un effet de "slop", c'est surement car l'IA avait contrôle complet de la génération et ce fut le resultat.
+
+
