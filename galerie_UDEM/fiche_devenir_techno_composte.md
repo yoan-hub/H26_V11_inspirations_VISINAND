@@ -37,7 +37,7 @@ Intérieure et temporaire
 <img src=photos/composantes_techiques_projecteur.jpg alt="cartel" width="300">
 
 >Projecteur
->
+
 <img src=photos/composantes_techiques_branchement.jpg alt="cartel" width="300">
 
 >Branchement
@@ -77,3 +77,11 @@ Cette œuvre à 4 composante différente, Il y a la première partie, qui est se
 
 
 ## Points forts et points faibles 
+### Points forts
+Le concept général est une bonne idée, selon moi, mais elle est mal exécuté.
+J'ai trés aprécié l'aspect réalité virtuelle de l'instalation, c'était le point le plus fort de cette oeuvre.
+J'aimé les couleur saturé, ça donnait une expérience un psychédélique et différente.
+J'ai aimé les chaises a cause du design insecte avec les barres de métal qui agis comme des pattes.
+
+
+### Points faibles
