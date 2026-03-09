@@ -15,7 +15,7 @@
 <br>
 
 # Oeuvre: Surrender
-Contemplative (meme immersive à cause de la partie video)
+Oeuvre contemplative (et même immersive à cause de la partie video)
 ### Année de création: 2001
 <img src=photos/Oeuvre_Surrender_Neutre.jpg alt="photo de affiche de l'expostion" width="450">
 
