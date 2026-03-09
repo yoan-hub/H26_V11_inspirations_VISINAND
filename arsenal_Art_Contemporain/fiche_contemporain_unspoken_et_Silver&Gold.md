@@ -52,6 +52,9 @@ Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés ver
 
 >Photo du projecteur #2 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
 
+### Deux ecrans plasmas
+Je n'ai pas de photo malheuresement.
+
 
 
 <br>
