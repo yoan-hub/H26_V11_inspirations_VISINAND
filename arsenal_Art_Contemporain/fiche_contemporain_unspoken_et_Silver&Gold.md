@@ -23,7 +23,7 @@ C'est une exposition intérieure et temporaire
 
 # Oeuvre: Surrender
 ### Année de création: 2001
-<img src=photos/Oeuvre_Surrender_Neutre.jpg alt="photo de affiche de l'expostion" width="300">
+<img src=photos/Oeuvre_Surrender_Neutre.jpg alt="photo de affiche de l'expostion" width="450">
 
 >L'oeuvre surrender de Bill Viola Sous forme Neutre (Photo: Yoan Visinand)
 
