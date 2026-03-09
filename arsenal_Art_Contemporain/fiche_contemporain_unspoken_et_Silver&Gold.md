@@ -88,5 +88,8 @@ Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les coul
 
 # Réferences
 https://www.billviola.com/
+
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/bill-viola#:~:text=Bill%20Viola%2C%20Surrender%2C%202001%2C,87%20cm%20x%2022.86%20cm.&text=Dans%20Surrender%2C%20deux%20figures%20humaines,de%20r%C3%A9flexion%20et%20de%20m%C3%A9ditation.&text=Unspoken%20(Silver%20&%20Gold)%20se,x%20193.04%20x%205.71%20cm.
+
+https://www.imdb.com/fr/title/tt9723546/
 
