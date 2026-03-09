@@ -29,7 +29,6 @@ C'est une exposition intérieure et temporaire
 ### Auteur: Bill Viola
 ### Année de création: 2001
 
-## texte explicatif:
 <img src=photos/Cartel_Oeuvres.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Le texte explicatif de Surrender (Photo: Yoan Visinand)
