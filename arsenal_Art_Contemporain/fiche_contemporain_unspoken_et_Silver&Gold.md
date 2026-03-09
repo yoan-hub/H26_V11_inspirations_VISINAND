@@ -23,7 +23,7 @@
 ### Auteur: Bill Viola
 <img src=photos/Cartel_Bio.jpg alt="photo de affiche de l'expostion" width="250"> <img src=photos/Cartel_Oeuvres.jpg alt="photo de affiche de l'expostion" width="250">
 
->Le texte explicatif de Surrender (Photo: Yoan Visinand)
+>Le texte explicatif de Surrender (et Unspoken) et de la biographie de Bill Viola (Photo: Yoan Visinand)
 
 # Réferences
 https://www.billviola.com/
