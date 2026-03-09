@@ -77,6 +77,8 @@ Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une é
 ## Expérience vécue
 <img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
 
+>Photo de la progression de l'oeuvre *Surrender* par Bill Viola  (Photo: Yoan Visinand)
+
 ## Ce qui m'a plus
 La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal. Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
 
