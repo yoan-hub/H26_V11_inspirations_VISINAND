@@ -11,10 +11,7 @@
 ### Lieu: Arsenal art contemporains. 2020 Rue William, Montréal.
 
 
-## Type exposition
-C'est une exposition intérieure et temporaire
-<br>
-
+## Type exposition: intérieure et temporaire
 
 <br>
 <br>
