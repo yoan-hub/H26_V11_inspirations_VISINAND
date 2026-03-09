@@ -28,6 +28,24 @@
 ### Description
 Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient 
 
+
+<br>
+<br>
+
+
+# Mon Parcours
+
+## expérience vécue
+
+## Ce qui m'a plus
+
+## Ce qu'on doit amélioré
+
+
+<br>
+<br>
+
+
 # Réferences
 https://www.billviola.com/
 https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/bill-viola#:~:text=Bill%20Viola%2C%20Surrender%2C%202001%2C,87%20cm%20x%2022.86%20cm.&text=Dans%20Surrender%2C%20deux%20figures%20humaines,de%20r%C3%A9flexion%20et%20de%20m%C3%A9ditation.&text=Unspoken%20(Silver%20&%20Gold)%20se,x%20193.04%20x%205.71%20cm.
