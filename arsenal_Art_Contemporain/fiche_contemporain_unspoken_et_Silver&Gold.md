@@ -35,7 +35,22 @@ Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés ver
 <br>
 
 
-# Composante
+# Composantes Techniques
+<img src=photos/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
+
+<img src=photos/Composantes_Techniques_Lecteur_Video.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du lecteur video industirel (Photo: Yoan Visinand)
+
+<img src=photos/Composantes_Techniques_Projecteur1.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du projecteur #1 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
+
+<img src=photos/Composantes_Techniques_Projecteur2.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du projecteur #2 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
 
 
 
