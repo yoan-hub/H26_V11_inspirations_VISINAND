@@ -3,7 +3,7 @@
 >Affiche de l'exposition à l'entrée (photo: Yoan Visinand)
 
 <img src=photos/Édifice_Selfie.jpg alt="photo de affiche de l'expostion" width="500">
->Selfie de moi et mon cammarade de classe Gael (photo: Yoan Visinand)
+>Self
 
 ### Date de visite: 20 fevrier 2026
 ### Lieu: Arsenal art contemporains. 2020 Rue William, Montréal.
