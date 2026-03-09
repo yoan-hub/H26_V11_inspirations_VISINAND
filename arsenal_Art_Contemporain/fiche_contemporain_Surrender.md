@@ -73,7 +73,7 @@ Je n'ai pas de photo malheuresement.
 
 # Mon Parcours
 Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). <br>
-Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. <br>
+<br>Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. <br>
 Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
 
 ## Expérience vécue
