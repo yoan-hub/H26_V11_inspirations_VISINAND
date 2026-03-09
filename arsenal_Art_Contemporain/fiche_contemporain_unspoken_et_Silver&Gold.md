@@ -35,7 +35,7 @@ Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés ver
 
 # Mon Parcours
 
-## expérience vécue
+## Expérience vécue
 
 ## Ce qui m'a plus
 
