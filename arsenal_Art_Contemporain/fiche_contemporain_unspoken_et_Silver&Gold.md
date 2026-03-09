@@ -1,5 +1,5 @@
 # Expostion: Arsenal Art Contemporain
-<img src=photos/Affiche_Arsenal.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Affiche_Exposition.jpg alt="photo de affiche de l'expostion" width="200">
+<img src=photos/Affiche_Arsenal.jpg alt="photo de affiche de l'expostion" width="350"> <img src=photos/Affiche_Exposition.jpg alt="photo de affiche de l'expostion" width="350">
 >Affiche de l'exposition à l'entrée (photo: Yoan Visinand)
 
 <img src=photos/Édifice_Selfie.jpg alt="photo de affiche de l'expostion" width="500">
