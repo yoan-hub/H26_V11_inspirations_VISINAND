@@ -36,6 +36,10 @@ Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés ver
 
 
 # Composantes Techniques
+
+### Deux ecrans plasmas
+Je n'ai pas de photo malheuresement.
+
 <img src=photos/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
@@ -52,8 +56,6 @@ Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés ver
 
 >Photo du projecteur #2 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
 
-### Deux ecrans plasmas
-Je n'ai pas de photo malheuresement.
 
 
 
