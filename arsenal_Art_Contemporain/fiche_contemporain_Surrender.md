@@ -14,20 +14,20 @@
 <br>
 <br>
 
-# Oeuvre: Surrender
+# Oeuvre: *Surrender*
 Oeuvre contemplative (et même immersive à cause de la partie video)
 ### Année de création: 2001
 <img src=photos/Oeuvre_Surrender_Neutre.jpg alt="photo de affiche de l'expostion" width="450">
 
->L'oeuvre surrender de Bill Viola Sous forme Neutre (Photo: Yoan Visinand)
+>L'oeuvre *surrender* de Bill Viola Sous forme Neutre (Photo: Yoan Visinand)
 
 ### Auteur: Bill Viola
 <img src=photos/Cartel_Bio.jpg alt="photo de affiche de l'expostion" width="250"> <img src=photos/Cartel_Oeuvres.jpg alt="photo de affiche de l'expostion" width="250">
 
->Le texte explicatif de Surrender (et Unspoken) et de la biographie de Bill Viola (Photo: Yoan Visinand)
+>Le texte explicatif de *Surrender* (et Unspoken) et de la biographie de Bill Viola (Photo: Yoan Visinand)
 
 ### Description
-Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
+*Surrender* (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
 
 ### Mise en Espace
 <img src=photos/Croquis_Bill_Viola.jpg alt="photo de affiche de l'expostion" width="300">
@@ -58,11 +58,11 @@ Je n'ai pas de photo malheuresement.
 
 <img src=photos/Composantes_Techniques_Projecteur1.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #1 pour l'autre oeuvre dans la salle: Unspoken de bill Viola (Photo: Yoan Visinand)
+>Photo du projecteur #1 pour l'autre oeuvre dans la salle: *Unspoken* de bill Viola (Photo: Yoan Visinand)
 
 <img src=photos/Composantes_Techniques_Projecteur2.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #2 pour l'autre oeuvre dans la salle:Unspoken de bill Viola  (Photo: Yoan Visinand)
+>Photo du projecteur #2 pour l'autre oeuvre dans la salle:*Unspoken* de bill Viola  (Photo: Yoan Visinand)
 
 
 
