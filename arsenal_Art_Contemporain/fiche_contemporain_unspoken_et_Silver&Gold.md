@@ -17,14 +17,6 @@
 C'est une exposition intérieure et temporaire
 <br>
 
-# Oeuvre: Unspoken (Silver&Gold)
-### Auteur: Bill Viola
-### Année de création: 2001
-
-## texte explicatif: 
-<img src=photos/Oeuvre_Silver&Gold.jpg alt="photo de affiche de l'expostion" width="300">
-
->Le texte explicatif de Unspoken (Photo: Yoan Visinand)
 
 <br>
 <br>
