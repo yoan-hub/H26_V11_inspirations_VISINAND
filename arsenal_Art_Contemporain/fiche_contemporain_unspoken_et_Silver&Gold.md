@@ -34,7 +34,7 @@ C'est une exposition intérieure et temporaire
 ### Année de création: 2001
 
 ## texte explicatif:
-<img src=photos/Oeuvre_Surender_Neutre.jpg alt="photo de affiche de l'expostion" width="300">
+<img src=photos/Oeuvre_Surrender_Neutre.jpg alt="photo de affiche de l'expostion" width="300">
 
 >Le texte explicatif de Surrender (Photo: Yoan Visinand)
 
