@@ -73,7 +73,7 @@ Je n'ai pas de photo malheuresement.
 # Mon Parcours
 
 ## Expérience vécue
-<img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200">
+<img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
 
 ## Ce qui m'a plus
 
