@@ -72,7 +72,7 @@ Je n'ai pas de photo malheuresement.
 
 
 # Mon Parcours
-Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion (peut-être contre elle-même). Les figures humaines se penchainet lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages plongent dans ce qu'on découvre être de l'eau. Au contact du liquide, leurs traits se déforment et se transforment en ondulations fluides.
+Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité
 
 ## Expérience vécue
 <img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
