@@ -58,11 +58,11 @@ Je n'ai pas de photo malheuresement.
 
 <img src=photos/Composantes_Techniques_Projecteur1.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #1 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
+>Photo du projecteur #1 pour l'autre oeuvre dans la salle: Unspoken de bill Viola (Photo: Yoan Visinand)
 
 <img src=photos/Composantes_Techniques_Projecteur2.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #2 pour l'oeuvre Unspoken de bill Viola  (Photo: Yoan Visinand)
+>Photo du projecteur #2 pour l'autre oeuvre dans la salle:Unspoken de bill Viola  (Photo: Yoan Visinand)
 
 
 
