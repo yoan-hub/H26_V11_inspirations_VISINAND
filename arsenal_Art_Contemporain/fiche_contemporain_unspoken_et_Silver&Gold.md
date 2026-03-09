@@ -27,7 +27,7 @@ Oeuvre contemplative (et même immersive à cause de la partie video)
 >Le texte explicatif de Surrender (et Unspoken) et de la biographie de Bill Viola (Photo: Yoan Visinand)
 
 ### Description
-Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient 
+Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
 
 ### Mise en Espace
 <img src=photos/Croquis_Bill_Viola.jpg alt="photo de affiche de l'expostion" width="300">
@@ -72,12 +72,13 @@ Je n'ai pas de photo malheuresement.
 
 
 # Mon Parcours
-Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité
+Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
 
 ## Expérience vécue
 <img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
 
 ## Ce qui m'a plus
+La video était très fluide sans aucun effets speciaux, donc c'était special tout en restant normal. Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
 
 ## Ce qu'on doit amélioré
 Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les couleures noires sont beaucoup plus sombres, cela aurait rajouter du focus sur les deux figures humaines et rendu l'expérience plus immersive et personelle. 
