@@ -28,7 +28,7 @@
 ### Description
 Surrender (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient 
 
-## Mise en Espace
+### Mise en Espace
 
 
 <br>
