@@ -1,10 +1,10 @@
 # Expostion: Arsenal Art Contemporain
 ### Date de visite: 20 fevrier 2026
-<img src=photos/Affiche_Arsenal.jpg alt="photo de affiche de l'expostion" width="350"> <img src=photos/Affiche_Exposition.jpg alt="photo de affiche de l'expostion" width="350">
+<img src=photos/Affiche_Arsenal.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Affiche_Exposition.jpg alt="photo de affiche de l'expostion" width="200">
 
 >Affiche de l'exposition à l'entrée (photo: Yoan Visinand)
 
-<img src=photos/Édifice_Selfie.jpg alt="photo de affiche de l'expostion" width="500">
+<img src=photos/Édifice_Selfie.jpg alt="photo de affiche de l'expostion" width="300">
 
 >Selfie de moi et mon camarade de classe devant le bulding (photo: Yoan Visinand)
 
