@@ -13,7 +13,7 @@
 
 <br>
 
-##type exposition
+## Type exposition
 C'est une exposition intérieure et temporaire
 <br>
 
