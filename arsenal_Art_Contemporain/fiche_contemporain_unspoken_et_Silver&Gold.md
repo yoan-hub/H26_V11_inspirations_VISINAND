@@ -9,9 +9,7 @@
 >Selfie de moi et mon camarade de classe devant le bulding (photo: Yoan Visinand)
 
 ### Lieu: Arsenal art contemporains. 2020 Rue William, Montréal.
-
-
-## Type exposition: intérieure et temporaire
+### Type exposition: intérieure et temporaire
 
 <br>
 <br>
