@@ -72,7 +72,9 @@ Je n'ai pas de photo malheuresement.
 
 
 # Mon Parcours
-Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
+Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même).
+Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. 
+Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
 
 ## Expérience vécue
 <img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
@@ -80,7 +82,8 @@ Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une é
 >Photo de la progression de l'oeuvre *Surrender* par Bill Viola  (Photo: Yoan Visinand)
 
 ## Ce qui m'a plus
-La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal. Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
+La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal.
+Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
 
 ## Ce qu'on doit amélioré
 Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les couleures noires sont beaucoup plus sombres, cela aurait rajouter du focus sur les deux figures humaines et rendu l'expérience plus immersive et personelle. 
