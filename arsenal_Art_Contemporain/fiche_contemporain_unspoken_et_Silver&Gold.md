@@ -78,7 +78,7 @@ Je n'ai pas de photo malheuresement.
 ## Ce qui m'a plus
 
 ## Ce qu'on doit amélioré
-Personnelemnt, j'aurais utiliser des écrans oled puisque sur ceux-ci le couleur noires sont beaucoup plus sombre, ça aurait rajouter du focus sur les deux figures humaines. Personnelemnt, j'aurais utiliser des écrans oled puisque sur ceux-ci le couleur noires sont beaucoup plus sombre, ça aurait rajouter du focus sur les deux figures humaines.
+Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les couleures noires sont beaucoup plus sombres, cela aurait rajouter du focus sur les deux figures humaines et rendu l'expérience plus immersive et personelle. 
 
 
 <br>
