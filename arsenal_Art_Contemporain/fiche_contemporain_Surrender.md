@@ -72,8 +72,8 @@ Je n'ai pas de photo malheuresement.
 
 
 # Mon Parcours
-Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même).
-Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. 
+Quand je regardais l'oeuvre, je voyais deux figures humaines qui lutaient une émotion dans le silence (peut-être contre elle-même). <br>
+Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaient dans l'eau jusqu'à ce que leurs visages sois carément submergé. <br>
 Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
 
 ## Expérience vécue
@@ -82,7 +82,7 @@ Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se dé
 >Photo de la progression de l'oeuvre *Surrender* par Bill Viola  (Photo: Yoan Visinand)
 
 ## Ce qui m'a plus
-La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal.
+La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal. <br>
 Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
 
 ## Ce qu'on doit amélioré
