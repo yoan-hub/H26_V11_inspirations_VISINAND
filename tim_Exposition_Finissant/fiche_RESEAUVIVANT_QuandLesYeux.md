@@ -121,7 +121,7 @@ Les figures humaines se penchaient lentement vers le bas, comme si ils plongeaie
 Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se déformer et onduler. Les émotions qu'on peut voir au travers de cette expérience son; la perte de contrôle, la distresse, la peine et la vulnérabélité.
 
 ## Expérience vécue
-<img src=photos-oevure/Parcours_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Parcours_TV_Apres.jpg alt="photo de affiche de l'expostion" width="200"> 
+<img src=photos-oevure/Parcous_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Parcours_TV_Apres.jpg alt="photo de affiche de l'expostion" width="200"> 
 
 >Photo de la progression de l'oeuvre *Quand les yeux se croisnet*  (Photo: Yoan Visinand)
 
