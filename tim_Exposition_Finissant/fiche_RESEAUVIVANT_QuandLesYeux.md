@@ -123,7 +123,7 @@ Quand ils sortent de l'eau c'est là qu'on peut voir les figure hummaines se dé
 ## Expérience vécue
 <img src=photos/Oeuvre_Surrender_Stable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Instable.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Glitch.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos/Oeuvre_Surrender_Fusion.jpg alt="photo de affiche de l'expostion" width="200">
 
->Photo de la progression de l'oeuvre *Surrender* par Bill Viola  (Photo: Yoan Visinand)
+>Photo de la progression de l'oeuvre *Quand les yeux se croisnet*  (Photo: Yoan Visinand)
 
 ## Ce qui m'a plus
 La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal. <br>
@@ -138,9 +138,7 @@ Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les coul
 
 
 # Réferences
-https://www.billviola.com/
+https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
 
-https://www.arsenalcontemporary.com/mtl/fr/exhib/detail/bill-viola#:~:text=Bill%20Viola%2C%20Surrender%2C%202001%2C,87%20cm%20x%2022.86%20cm.&text=Dans%20Surrender%2C%20deux%20figures%20humaines,de%20r%C3%A9flexion%20et%20de%20m%C3%A9ditation.&text=Unspoken%20(Silver%20&%20Gold)%20se,x%20193.04%20x%205.71%20cm.
-
-https://www.imdb.com/fr/title/tt9723546/
+https://github.com/gutierrezgael/H26_TIM_exposition/blob/main/banque_inspiration/tp/03_A_TIM_studio_finissant.md
 
