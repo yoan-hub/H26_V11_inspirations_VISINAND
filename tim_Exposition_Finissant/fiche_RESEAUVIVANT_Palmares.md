@@ -95,11 +95,11 @@
 ### Nom: Arbre En Face
 ### Instalation et croquis
 
-<img src=photo-palamres/palmares_arbre_face.jpg alt="" width="400">
+<img src=photo-palamres/palmares_abre_face.jpg alt="" width="400">
 
 > photo de l'instalation *Arbre En Face* (photo: Ahmed)
 
-<img src=photo-palamres/croquis_abre_face.png alt="" width="300">
+<img src=photo-palamres/croquis_abre_face.jpg alt="" width="300">
 
 > croquis de l'instalation *Arbre En Face* (site web de l'équipe/exposition)
 
