@@ -17,10 +17,33 @@ Oeuvre immersive et interactive
 
 >L'oeuvre *Quand les yeux se croisent* en vue d'ensemble (Photo: Yoan Visinand)
 
-### Auteur: Bill Viola
-<img src=photos-oeuvre/Cartel.jpg alt="cartel de mon oeuvre" width="450">
+<img src=photos-oeuvre/Cartel.jpg alt="cartel de mon oeuvre" width="250">
 
 >Le texte explicatif de *Quand les yeux se croisent* (Photo: Yoan Visinand)
+
+### Équipe:
+<img src=photos-oeuvre/Equipe_edelwyn.jpg alt="cartel de mon oeuvre" width="250">
+
+> Photo de Edelwyn ... (site web de l'équipe/exposition)
+
+<img src=photos-oeuvre/Equipe_Felix.jpg alt="cartel de mon oeuvre" width="250">
+
+> Photo de Felix ... (site web de l'équipe/exposition)
+
+<img src=photos-oeuvre/Equipe_Manel.jpg alt="cartel de mon oeuvre" width="250">
+
+> Photo de Manel ... (site web de l'équipe/exposition)
+
+<img src=photos-oeuvre/Equipe_Jade.jpg alt="cartel de mon oeuvre" width="250">
+
+> Photo de Jade ... (site web de l'équipe/exposition)
+
+<img src=photos-oeuvre/Equipe_Patricia.jpg alt="cartel de mon oeuvre" width="250">
+
+> Photo de Patrica ... (site web de l'équipe/exposition)
+
+
+
 
 ### Description
 *Surrender* (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
