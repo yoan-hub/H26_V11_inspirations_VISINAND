@@ -125,12 +125,10 @@ Le tout change lorsqu'on met pieds sur le spotlight et les regards animals sont 
 >Photo de la progression de l'oeuvre *Quand les yeux se croisent* (à gauche c'est neutre et a droite on peut voir mon visage. (Photo: Yoan Visinand)
 
 ## Ce qui m'a plus
-La video était très fluide et super detailée sans aucun effets speciaux, donc c'était special tout en restant normal. <br>
-Le Ralenti est impressionant, ne parait pas sacadé et ne donne pas d'effet "frame par frame".
+L'environement et le decors de l'oeuvre fittent bien avec la thématique de l'oeuvre. Ceci crée une expérience plus immersive. Aussi l'oeuvre changeait, (ex: les yeux) créant une expérience qui n'est presque jamais la meme.
 
 ## Ce qu'on doit amélioré
-Personnelement, j'aurais utilisé des écrans OLED puisque sur ceux-ci, les couleures noires sont beaucoup plus sombres, cela aurait rajouter du focus sur les deux figures humaines et rendu l'expérience plus immersive et personelle. 
-
+Parfois, ça prenait du temps avant que mon visage s'affiche sur les télévision cadothique, aussi mon oeil n'était pas bien centré dans la tv.
 
 <br>
 <br>
