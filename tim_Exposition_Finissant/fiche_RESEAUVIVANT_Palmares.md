@@ -16,6 +16,11 @@
 > croquis de l'instalation *terminal* (site web de l'équipe/exposition)
 
 ### Équipe
+- Dana Saavedra-Torrano
+-  Mégane Ranger
+-  Terry Ting Yung Lu
+-  Émeryk Bélisle
+-   Elie Daher
 ### Mon expérience
 
 <br>
