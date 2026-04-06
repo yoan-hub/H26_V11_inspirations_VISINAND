@@ -96,7 +96,7 @@ Oeuvre immersive et interactive
 
 >Lumière spotlight qui indique où se placer (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Switch_Ethernet_Poe.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Switch_Ethernet_poe.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Switch (Photo: Yoan Visinand)
 
@@ -104,7 +104,7 @@ Oeuvre immersive et interactive
 
 >Télévision cadothiques (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Raspberry_Pi_Ecran.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniqus_Raspberry_Pi_Ecran.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Ecran raspberry pi (Photo: Yoan Visinand)
 
