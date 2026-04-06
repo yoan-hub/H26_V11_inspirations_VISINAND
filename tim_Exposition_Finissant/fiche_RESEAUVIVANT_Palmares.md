@@ -6,13 +6,15 @@
 ## Oeuvre #2
 ### Nom: Terminal
 ### Instalation et croquis
+
 <img src=photo-palamres/palmares_termianl.jpg alt="" width="400">
 
 > photo de l'instalation *terminal* (photo: Yoan Visinand)
-> 
+
 <img src=photo-palamres/croquis_terminal.png alt="" width="300">
 
 > croquis de l'instalation *terminal* (site web de l'équipe/exposition)
+
 ### Équipe
 ### Mon expérience
 
