@@ -46,8 +46,8 @@ Oeuvre immersive et interactive
 
 
 ### Description
-*Surrender* (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
-
+**A MODIFIER**
+"Quand les yeux se croisent est une installation immersive composée d’une collection de regards humains et animaux diffusés sur quatre télévisions cathodiques rétro disposées en structure rectangulaire au centre d’un grand studio. Le visiteur peut se déplacer librement autour de l’installation, découvrant progressivement ces écrans vintages qui forment une mosaïque de regards projetés en boucle. Deux caméras captent sa présence et enregistrent son propre regard, l’intégrant subtilement à l’œuvre et l’ajoutant à cette collection vivante." (site web de l'Équipe)
 ### Mise en Espace
 <img src=photos-oeuvre/croquis_yeux.jpeg alt="Croquis de l'exposition" width="450">
 
