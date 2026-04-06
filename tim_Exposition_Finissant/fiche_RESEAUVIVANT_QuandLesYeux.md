@@ -96,17 +96,17 @@ Oeuvre immersive et interactive
 
 >Lumière spotlight qui indique où se placer (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Switch Ethernet_Poe.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Switch_Ethernet_Poe.jpg alt="photo de affiche de l'expostion" width="250">
 
->Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
+>Switch (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_TV_Cadothique.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du lecteur video industirel (Photo: Yoan Visinand)
+>Télévision cadothiques (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Raspberry_Pi_Ecran.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #1 pour l'autre oeuvre dans la salle: *Unspoken* de bill Viola (Photo: Yoan Visinand)
+>Ecran raspberry pi (Photo: Yoan Visinand)
 
 
 
