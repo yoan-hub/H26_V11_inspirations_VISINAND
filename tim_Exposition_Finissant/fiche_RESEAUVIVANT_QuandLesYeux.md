@@ -64,24 +64,52 @@ Oeuvre immersive et interactive
 
 # Composantes Techniques
 
-### Deux ecrans plasmas
-Je n'ai pas de photo malheuresement.
+<img src=photos-oeuvre/Composantes_Techniques_Support&Camera.jpg alt="photo de affiche de l'expostion" width="250">
 
-<img src=photos/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+>caméra et support à caméra (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Branchement_principal.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Branchement principal de l'oeuvre(Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Carte_HDMI.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Carte HDMI (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du projecteur #2 pour l'autre oeuvre dans la salle:*Unspoken* de bill Viola  (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
 
-<img src=photos/Composantes_Techniques_Lecteur_Video.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Photo du lecteur video industirel (Photo: Yoan Visinand)
 
-<img src=photos/Composantes_Techniques_Projecteur1.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Photo du projecteur #1 pour l'autre oeuvre dans la salle: *Unspoken* de bill Viola (Photo: Yoan Visinand)
 
-<img src=photos/Composantes_Techniques_Projecteur2.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Photo du projecteur #2 pour l'autre oeuvre dans la salle:*Unspoken* de bill Viola  (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du lecteur video industirel (Photo: Yoan Visinand)
+
+<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+
+>Photo du projecteur #1 pour l'autre oeuvre dans la salle: *Unspoken* de bill Viola (Photo: Yoan Visinand)
+
+
+
 
 
 
