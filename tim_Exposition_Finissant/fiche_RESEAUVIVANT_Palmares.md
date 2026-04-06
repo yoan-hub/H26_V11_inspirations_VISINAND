@@ -7,7 +7,7 @@
 ### Nom: Terminal
 ### Instalation et croquis
 
-<img src=photo-palamres/palmares_termianl.jpg alt="" width="400">
+<img src=photo-palamres/palamares_termianl.jpg alt="" width="400">
 
 > photo de l'instalation *terminal* (photo: Yoan Visinand)
 
