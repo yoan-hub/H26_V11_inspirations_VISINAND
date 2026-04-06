@@ -124,10 +124,10 @@ Le tout change lorsqu'on met pieds sur le spotlight et les regards animals sont 
 
 >Photo de la progression de l'oeuvre *Quand les yeux se croisent* (à gauche c'est neutre et a droite on peut voir mon visage. (Photo: Yoan Visinand)
 
-## Ce qui m'a plus
+### Ce qui m'a plus
 L'environement et le decors de l'oeuvre fittent bien avec la thématique de l'oeuvre. Ceci crée une expérience plus immersive. Aussi l'oeuvre changeait, (ex: les yeux) créant une expérience qui n'est presque jamais la meme.
 
-## Ce qu'on doit amélioré
+### Ce qu'on doit amélioré
 Parfois, ça prenait du temps avant que mon visage s'affiche sur les télévision cadothique, aussi mon oeil n'était pas bien centré dans la tv.
 
 <br>
