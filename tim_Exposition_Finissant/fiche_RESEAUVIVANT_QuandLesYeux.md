@@ -13,11 +13,11 @@
 # Oeuvre: Quand les yeux se croisent
 Oeuvre immersive et interactive 
 ### Année de création: 2026
-<img src=photos-oeuvre/Oeuvre_Vue_Ensemble.jpg alt="cartel de mon oeuvre" width="450">
+<img src=photos-oeuvre/Oeuvre_Vue_Ensemble.jpg alt="cartel de mon oeuvre" width="550">
 
 >L'oeuvre *Quand les yeux se croisent* en vue d'ensemble (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Cartel.jpg alt="cartel de mon oeuvre" width="250">
+<img src=photos-oeuvre/Cartel.jpg alt="cartel de mon oeuvre" width="450">
 
 >Le texte explicatif de *Quand les yeux se croisent* (Photo: Yoan Visinand)
 
