@@ -1,12 +1,8 @@
 # Expostion: Réseau Vivant (TIM)
 ### Date de visite: 17 mars 2026
 <img src=photos-oeuvre/Affiche_Resau_Vivant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Exposition_Selfie.jpg alt="photo de affiche de l'expostion" width="200">
+>Affiche de l'entrée de l'exposition (photo: Yoan Visinand)
 
->Affiche de l'exposition à l'entrée (photo: Yoan Visinand)
-
-<img src=photos/Édifice_Selfie.jpg alt="photo de affiche de l'expostion" width="300">
-
->Selfie de moi et mon camarade de classe devant le bulding (photo: Yoan Visinand)
 
 ### Lieu: Collège Montmorency (475 Bd de l'Avenir, Laval, QC H7N 5H9)
 ### Type exposition: intérieure et temporaire 
