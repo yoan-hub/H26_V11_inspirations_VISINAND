@@ -24,23 +24,23 @@ Oeuvre immersive et interactive
 ### Équipe:
 <img src=photos-oeuvre/Equipe_edelwyn.jpg alt="cartel de mon oeuvre" width="250">
 
-> Photo de Edelwyn ... (site web de l'équipe/exposition)
+> Photo de Edelwyn Ledru, Intégratrice de projet et designer (site web de l'équipe/exposition)
 
 <img src=photos-oeuvre/Equipe_Felix.jpg alt="cartel de mon oeuvre" width="250">
 
-> Photo de Felix ... (site web de l'équipe/exposition)
+> Photo de Felix Lavoie, Technicien et programmeur (site web de l'équipe/exposition)
 
 <img src=photos-oeuvre/Equipe_Manel.jpg alt="cartel de mon oeuvre" width="250">
 
-> Photo de Manel ... (site web de l'équipe/exposition)
+> Photo de Manel Yaya, Directrice audiovisuelle  (site web de l'équipe/exposition)
 
 <img src=photos-oeuvre/Equipe_Jade.jpg alt="cartel de mon oeuvre" width="250">
 
-> Photo de Jade ... (site web de l'équipe/exposition)
+> Photo de Jade Hébert, Coodonnatirce (site web de l'équipe/exposition)
 
 <img src=photos-oeuvre/Equipe_Patricia.jpg alt="cartel de mon oeuvre" width="250">
 
-> Photo de Patrica ... (site web de l'équipe/exposition)
+> Photo de Patrica Nassif, Directrice artistique multimédia (site web de l'équipe/exposition)
 
 
 
