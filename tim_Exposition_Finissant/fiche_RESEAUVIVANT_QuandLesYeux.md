@@ -76,27 +76,27 @@ Oeuvre immersive et interactive
 
 >Carte HDMI (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Carte_Son.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #2 pour l'autre oeuvre dans la salle:*Unspoken* de bill Viola  (Photo: Yoan Visinand)
+>Carte son (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Decors_Floraison_guirlande.jpg alt="photo de affiche de l'expostion" width="250">
 
->Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
+>Guirlande de lumière et floraison (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Haut_Parleurs.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du lecteur video industirel (Photo: Yoan Visinand)
+>Haut parleurs (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Led.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #1 pour l'autre oeuvre dans la salle: *Unspoken* de bill Viola (Photo: Yoan Visinand)
+>Bande de lumière LED (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Spotlight.jpg alt="photo de affiche de l'expostion" width="250">
 
->Photo du projecteur #2 pour l'autre oeuvre dans la salle:*Unspoken* de bill Viola  (Photo: Yoan Visinand)
+>Lumière spotlight qui indique où se placer (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Interupteur.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photos-oeuvre/Composantes_Techniques_Switch Ethernet_Poe.jpg alt="photo de affiche de l'expostion" width="250">
 
 >Interrupteur de lumière pour montrer que la lumière est fermée (Photo: Yoan Visinand)
 
