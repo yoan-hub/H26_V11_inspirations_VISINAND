@@ -74,6 +74,15 @@
 ## Oeuvre #5
 ### Nom: Ocean Rouge
 ### Instalation et croquis
+
+<img src=photo-palamres/palmares_mission.jpg alt="" width="400">
+
+> photo de l'instalation *Ocean Rouge* (photo: Ahmed)
+
+<img src=photo-palamres/croquis_mission.png alt="" width="300">
+
+> croquis de l'instalation *Ocean Rouge* (site web de l'équipe/exposition)
+
 ### Équipe
 ### Mon expérience
 
@@ -83,6 +92,14 @@
 ## Oeuvre #6
 ### Nom: Arbre En Face
 ### Instalation et croquis
+
+<img src=photo-palamres/palmares_mission.jpg alt="" width="400">
+
+> photo de l'instalation *Mission Décollage* (photo: Ahmed)
+
+<img src=photo-palamres/croquis_mission.png alt="" width="300">
+
+> croquis de l'instalation *Mission Décollage* (site web de l'équipe/exposition)
 ### Équipe
 ### Mon expérience
 
