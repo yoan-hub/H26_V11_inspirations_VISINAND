@@ -6,11 +6,11 @@
 ## Oeuvre #2
 ### Nom: Terminal
 ### Instalation et croquis
-<img src=photos-palamres/palmares_termianl.jpg alt="cartel de mon oeuvre" width="400">
+<img src=photo-palamres/palmares_termianl.jpg alt="" width="400">
 
 > photo de l'instalation *terminal* (photo: Yoan Visinand)
 > 
-<img src=photos-oeuvre/croquis_terminal.png alt="cartel de mon oeuvre" width="300">
+<img src=photo-palamres/croquis_terminal.png alt="" width="300">
 
 > croquis de l'instalation *terminal* (site web de l'équipe/exposition)
 ### Équipe
