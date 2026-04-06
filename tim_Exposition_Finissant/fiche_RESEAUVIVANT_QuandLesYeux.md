@@ -49,13 +49,10 @@ Oeuvre immersive et interactive
 *Surrender* (2001) est une vidéo couleur qui joue sur deux écrans TV montés verticalement,  elle montre deux figure humaines presque que s'il fusionnait avec l'autre. On peux aussi voir le refflet de chaque figure humain dans l'eau et ça peut aussi parraitre que c'est comme si ils plongeaient.
 
 ### Mise en Espace
-<img src=photos/Croquis_Bill_Viola.jpg alt="photo de affiche de l'expostion" width="300">
+<img src=photos-oeuvre/croquis_yeux.jpg alt="Croquis de l'exposition" width="300">
 
->Croquis de la vue d'ensemble de la salle ou mon oeuvre était située (Croquis: Yoan Visinand)
->
-<img src=photos/Oeuvre_Vue_Ensemble.jpg alt="photo de affiche de l'expostion" width="200">
+>Croquis de la vue d'ensemble de la salle ou mon oeuvre était située (site web de l'équipe/exposition)
 
->Photo vue d'ensemble de la salle ou mon oeuvre était située (Photo et croquis: Yoan Visinand)
 
 
 <br>
