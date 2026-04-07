@@ -1,10 +1,10 @@
 # Expostion: Explore - La science en grand
 ### Date de visite: 2 avril 2026
-<img src=photo_sciences/edifice.jpg alt="photo de affiche de l'expostion" width="450">
+<img src=photo_sciences/edifice.jpg alt="photo de affiche de l'expostion" width="520">
 
 >Photo de l'édifice (photo: site web du centre des sciences)
 
-<img src=photo_sciences/Cartel_Exposition.jpg alt="photo de affiche de l'expostion" width="400">
+<img src=photo_sciences/Cartel_Exposition.jpg alt="photo de affiche de l'expostion" width="420">
 
 >Affiche de l'exposition (photo: Yoan Visinand)
 
