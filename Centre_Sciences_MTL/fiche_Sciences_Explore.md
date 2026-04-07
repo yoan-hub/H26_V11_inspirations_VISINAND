@@ -35,25 +35,6 @@ Dispositif interactif
 >Le texte explicatif de l'exposition et de la firme (Photo: Yoan Visinand)
 
 ### Équipe:
-<img src=photos-oeuvre/Equipe_edelwyn.jpg alt="cartel de mon oeuvre" width="250">
-
-> Photo de Edelwyn Ledru, Intégratrice de projet et designer (site web de l'équipe/exposition)
-
-<img src=photos-oeuvre/Equipe_Felix.jpg alt="cartel de mon oeuvre" width="250">
-
-> Photo de Felix Lavoie, Technicien et programmeur (site web de l'équipe/exposition)
-
-<img src=photos-oeuvre/Equipe_Manel.jpg alt="cartel de mon oeuvre" width="250">
-
-> Photo de Manel Yaya, Directrice audiovisuelle  (site web de l'équipe/exposition)
-
-<img src=photos-oeuvre/Equipe_Jade.jpg alt="cartel de mon oeuvre" width="250">
-
-> Photo de Jade Hébert, Coodonnatirce (site web de l'équipe/exposition)
-
-<img src=photos-oeuvre/Equipe_Patricia.jpg alt="cartel de mon oeuvre" width="250">
-
-> Photo de Patrica Nassif, Directrice artistique multimédia (site web de l'équipe/exposition)
 
 
 
@@ -76,23 +57,19 @@ Dispositif interactif
 
 <img src=photos-oeuvre/Composantes_Techniques_Support&Camera.jpg alt="photo de affiche de l'expostion" width="250">
 
->caméra et support à caméra (Photo: Yoan Visinand)
+>caméra (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Branchement_principal.jpg alt="photo de affiche de l'expostion" width="250">
 
->Branchement principal de l'oeuvre(Photo: Yoan Visinand)
+>Branchement du robot (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Carte_HDMI.jpg alt="photo de affiche de l'expostion" width="250">
 
->Carte HDMI (Photo: Yoan Visinand)
+>Blocs de commande (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Carte_Son.jpg alt="photo de affiche de l'expostion" width="250">
 
->Carte son (Photo: Yoan Visinand)
-
-<img src=photos-oeuvre/Composantes_Techniques_Decors_Floraison_guirlande.jpg alt="photo de affiche de l'expostion" width="250">
-
->Guirlande de lumière et floraison (Photo: Yoan Visinand)
+>Spotlight (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Haut_Parleurs.jpg alt="photo de affiche de l'expostion" width="250">
 
@@ -100,15 +77,15 @@ Dispositif interactif
 
 <img src=photos-oeuvre/Composantes_Techniques_Led.jpg alt="photo de affiche de l'expostion" width="250">
 
->Bande de lumière LED (Photo: Yoan Visinand)
+>Bouton (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Spotlight.jpg alt="photo de affiche de l'expostion" width="250">
 
->Lumière spotlight qui indique où se placer (Photo: Yoan Visinand)
+>Bras et robot (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_Switch_Ethernet_poe.jpg alt="photo de affiche de l'expostion" width="250">
 
->Switch (Photo: Yoan Visinand)
+>Ecran (Photo: Yoan Visinand)
 
 <img src=photos-oeuvre/Composantes_Techniques_TV_Cadothique.jpg alt="photo de affiche de l'expostion" width="250">
 
