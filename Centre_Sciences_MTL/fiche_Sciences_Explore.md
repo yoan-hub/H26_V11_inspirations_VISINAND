@@ -15,7 +15,7 @@
 <br>
 <br>
 
-# Oeuvre: ???
+# Oeuvre: MECA500
 Dispositif interactif
 ### Année de création: ???
 <img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="Vue d'ensemble du dispositif" width="440">
