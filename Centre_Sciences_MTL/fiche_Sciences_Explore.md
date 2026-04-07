@@ -22,9 +22,6 @@ Dispositif interactif
 
 >Vue d'ensemble du dispositif (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="440">
-
->Vue de coté du dispositif(Photo: Yoan Visinand)
 
 <img src=photo_sciences/Oeuvre_Bras.jpg alt="Vue de rapproché du robot" width="415">
 
@@ -55,35 +52,35 @@ Dispositif interactif
 
 # Composantes Techniques
 
-<img src=photos-oeuvre/Composantes_Techniques_Support&Camera.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >caméra (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Branchement_principal.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Branchement du robot (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Carte_HDMI.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Blocs de commande (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Carte_Son.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Spotlight (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Haut_Parleurs.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Haut parleurs (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Led.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Bouton (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Spotlight.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Bras et robot (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_Switch_Ethernet_poe.jpg alt="photo de affiche de l'expostion" width="250">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Ecran (Photo: Yoan Visinand)
 
