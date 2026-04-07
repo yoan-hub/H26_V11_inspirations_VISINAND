@@ -1,6 +1,6 @@
 # Expostion: Explore - La science en grand
 ### Date de visite: 2 avril 2026
-<img src=photos-oeuvre/Affiche_Resau_Vivant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Exposition_Selfie.jpg alt="photo de affiche de l'expostion" width="200">
+<img src=photo_sciences/Cartel_Exposition.jpg alt="photo de affiche de l'expostion" width="300">
 >Affiche de l'entrée de l'exposition (photo: Yoan Visinand)
 
 
