@@ -105,7 +105,7 @@ Parfois, ça prenait du temps avant que mon visage s'affiche sur les télévisio
 
 
 # Réferences
-https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
+[https://emersiaa.github.io/Quand-les-yeux-se-croisent/#/
 
-https://github.com/gutierrezgael/H26_TIM_exposition/blob/main/banque_inspiration/tp/03_A_TIM_studio_finissant.md
+https://github.com/gutierrezgael/H26_TIM_exposition/blob/main/banque_inspiration/tp/03_A_TIM_studio_finissant.md](https://www.centredessciencesdemontreal.com/)
 
