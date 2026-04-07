@@ -18,14 +18,9 @@
 # Oeuvre: MECA500
 Dispositif interactif
 ### Année de création: ???
-<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="Vue d'ensemble du dispositif" width="440">
+<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="Vue d'ensemble du dispositif" width="550">
 
 >Vue d'ensemble du dispositif (Photo: Yoan Visinand)
-
-
-<img src=photo_sciences/Oeuvre_Bras.jpg alt="Vue de rapproché du robot" width="415">
-
->Vue de rapproché du robot (Photo: Yoan Visinand)
 
 <img src=photo_sciences/carte_dispositif.png alt="carte_dispositif" width="375">
 
