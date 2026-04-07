@@ -27,7 +27,7 @@ Dispositif interactif
 
 >Vue de rapproché du robot (Photo: Yoan Visinand)
 
-<img src=photo_sciences/carte_dispositif.jpg alt="carte_dispositif" width="375">
+<img src=photo_sciences/carte_dispositif.png alt="carte_dispositif" width="375">
 
 >Le texte explicatif de l'exposition et de la firme (Photo: Yoan Visinand)
 
