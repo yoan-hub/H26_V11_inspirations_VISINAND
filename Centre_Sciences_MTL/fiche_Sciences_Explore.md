@@ -5,7 +5,8 @@
 >Photo de l'édifice (photo: site web du centre des sciences)
 
 <img src=photo_sciences/Cartel_Exposition.jpg alt="photo de affiche de l'expostion" width="400">
->Affiche de l'entrée de l'exposition (photo: Yoan Visinand)
+
+>Affiche de l'exposition (photo: Yoan Visinand)
 
 
 ### Lieu: Centre des sciences de Montréal ( 2 R. de la Commune O, Montréal, QC H2Y 4B2)
