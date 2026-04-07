@@ -53,31 +53,31 @@ Dispositif interactif
 
 # Composantes Techniques
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Camera.png.jpg alt="Vue de coté du dispositif" width="250">
 
 >caméra (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Branchement_Robot.jpg alt="Vue de coté du dispositif" width="250">
 
 >Branchement du robot (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Blocs.jpg alt="Vue de coté du dispositif" width="250">
 
 >Blocs de commande (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Spotlight.jpg alt="Vue de coté du dispositif" width="250">
 
 >Spotlight (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Speaker.jpg alt="Vue de coté du dispositif" width="250">
 
 >Haut parleurs (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Bouton.jpg alt="Vue de coté du dispositif" width="250">
 
 >Bouton (Photo: Yoan Visinand)
 
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Oeuvre_Bras.jpg alt="Vue de coté du dispositif" width="250">
 
 >Bras et robot (Photo: Yoan Visinand)
 
