@@ -53,7 +53,7 @@ Dispositif interactif
 
 # Composantes Techniques
 
-<img src=photo_sciences/Composantes_Techniques_Camera.png.jpg alt="Vue de coté du dispositif" width="250">
+<img src=photo_sciences/Composantes_Techniques_Camera.png alt="Vue de coté du dispositif" width="250">
 
 >caméra (Photo: Yoan Visinand)
 
