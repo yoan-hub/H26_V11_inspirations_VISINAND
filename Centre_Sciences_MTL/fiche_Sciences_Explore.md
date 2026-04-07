@@ -36,7 +36,7 @@ Dispositif interactif
 MECA500 est un dispositif sous forme de robot. Celui-ci est constitué d'un bras et d'un ecran est il est controllé par les blocs de commande qui son lus par une caméra. Ses derniers, peuvnet controllé les mouvement fait par les bras et tourner l'écran ou aussi de changer les expressions affichées sur l'écran. Un bloc de commande peut aussi arreter les actions.
 
 ### Mise en Espace
-<img src=photo_sciences/croquis_robot.jpeg alt="Croquis de l'exposition" width="450">
+<img src=photo_sciences/croquis-robot.jpeg alt="Croquis de l'exposition" width="450">
 
 >Croquis de la vue d'ensemble de la salle ou mon oeuvre était située (site web de l'équipe/exposition)
 
