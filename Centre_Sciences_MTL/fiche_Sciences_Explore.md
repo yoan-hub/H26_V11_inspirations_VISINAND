@@ -89,15 +89,15 @@ MECA500 est un dispositif sous forme de robot. Celui-ci est constitué d'un bras
 Ici je vais montrer une video de mon expérience vécue, qui montre comment mon dispotif fonctionne
 
 ## Expérience vécue
-<img src=photos-oeuvre/Parcous_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> 
+<img src=photo_sciences/lien.jpg alt="video ici" width="200"> 
 
 >Video de MECA500 en fonction (Photo: Yoan Visinand)
 
 ### Ce qui m'a plus
-L'environement et le decors de l'oeuvre fittent bien avec la thématique de l'oeuvre. Ceci crée une expérience plus immersive. Aussi l'oeuvre changeait, (ex: les yeux) créant une expérience qui n'est presque jamais la meme.
+C'était très interessant de pouvoir décider des séquences de mouvement et expression du robot par moi même
 
 ### Ce qu'on doit amélioré
-Parfois, ça prenait du temps avant que mon visage s'affiche sur les télévision cadothique, aussi mon oeil n'était pas bien centré dans la tv.
+Les mouvements et les expressions du robot était limités
 
 <br>
 <br>
