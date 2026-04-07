@@ -89,7 +89,7 @@ MECA500 est un dispositif sous forme de robot. Celui-ci est constitué d'un bras
 Ici je vais montrer une video de mon expérience vécue, qui montre comment mon dispotif fonctionne
 
 ## Expérience vécue
-<img src=photos-oeuvre/Parcous_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Parcours_TV_Apres.jpg alt="photo de affiche de l'expostion" width="200"> 
+<img src=photos-oeuvre/Parcous_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> 
 
 >Video de MECA500 en fonction (Photo: Yoan Visinand)
 
