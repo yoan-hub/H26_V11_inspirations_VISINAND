@@ -13,9 +13,9 @@
 # Oeuvre: ???
 Dispositif interactif
 ### Année de création: ???
-<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="cartel de mon oeuvre" width="485">
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="cartel de mon oeuvre" width="485">
-<img src=photo_sciences/Oeuvre_Bras.jpg alt="cartel de mon oeuvre" width="485">
+<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="cartel de mon oeuvre" width="440">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="cartel de mon oeuvre" width="440">
+<img src=photo_sciences/Oeuvre_Bras.jpg alt="cartel de mon oeuvre" width="415">
 
 >L'oeuvre *Quand les yeux se croisent* en vue d'ensemble (Photo: Yoan Visinand)
 
