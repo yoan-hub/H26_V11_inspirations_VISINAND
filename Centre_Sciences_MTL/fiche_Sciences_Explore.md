@@ -32,6 +32,7 @@ Dispositif interactif
 >Le texte explicatif de l'exposition et de la firme (Photo: Yoan Visinand)
 
 ### Équipe:
+<img src=photo_sciences/Cartel_Exposition2.jpg alt="cartel de mon oeuvre" width="425">
 
 
 
