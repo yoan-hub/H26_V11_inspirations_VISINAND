@@ -86,13 +86,12 @@ MECA500 est un dispositif sous forme de robot. Celui-ci est constitué d'un bras
 
 
 # Mon Parcours
-Avant de me placer sur la spotlight pour activer l'oeuvre, j'étais entouré par des regards d'animaux sur les télévisions cadothiques. Aussi, on peut voir d'ancien regards sur les écrans raspberry pi, précédement enregistré par les caméras. Le tout est amélioré par l'environement et le decors (lumières, guirlandes, speakers et floraison). <br>
-Le tout change lorsqu'on met pieds sur le spotlight et les regards animals sont en suite remplacé par le votre sur L'une des TV cadothiques et sera plus tard affiché sur les écrans raspberry pi.
+Ici je vais montrer une video de mon expérience vécue, qui montre comment mon dispotif fonctionne
 
 ## Expérience vécue
 <img src=photos-oeuvre/Parcous_TV_Avant.jpg alt="photo de affiche de l'expostion" width="200"> <img src=photos-oeuvre/Parcours_TV_Apres.jpg alt="photo de affiche de l'expostion" width="200"> 
 
->Photo de la progression de l'oeuvre *Quand les yeux se croisent* (à gauche c'est neutre et a droite on peut voir mon visage. (Photo: Yoan Visinand)
+>Video de MECA500 en fonction (Photo: Yoan Visinand)
 
 ### Ce qui m'a plus
 L'environement et le decors de l'oeuvre fittent bien avec la thématique de l'oeuvre. Ceci crée une expérience plus immersive. Aussi l'oeuvre changeait, (ex: les yeux) créant une expérience qui n'est presque jamais la meme.
