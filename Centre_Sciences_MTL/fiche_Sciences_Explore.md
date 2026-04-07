@@ -13,15 +13,21 @@
 # Oeuvre: ???
 Dispositif interactif
 ### Année de création: ???
-<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="cartel de mon oeuvre" width="440">
-<img src=photo_sciences/Oeuvre_Robot.jpg alt="cartel de mon oeuvre" width="440">
-<img src=photo_sciences/Oeuvre_Bras.jpg alt="cartel de mon oeuvre" width="415">
+<img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="Vue d'ensemble du dispositif" width="440">
 
->L'oeuvre *Quand les yeux se croisent* en vue d'ensemble (Photo: Yoan Visinand)
+>Vue d'ensemble du dispositif (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Cartel.jpg alt="cartel de mon oeuvre" width="450">
+<img src=photo_sciences/Oeuvre_Robot.jpg alt="Vue de coté du dispositif" width="440">
 
->Le texte explicatif de *Quand les yeux se croisent* (Photo: Yoan Visinand)
+>Vue de coté du dispositif(Photo: Yoan Visinand)
+
+<img src=photo_sciences/Oeuvre_Bras.jpg alt="Vue de rapproché du robot" width="415">
+
+>Vue de rapproché du robot (Photo: Yoan Visinand)
+
+<img src=photo_sciences/Cartel_Exposition2.jpg alt="cartel de mon oeuvre" width="375">
+
+>Le texte explicatif de l'exposition et de la firme (Photo: Yoan Visinand)
 
 ### Équipe:
 <img src=photos-oeuvre/Equipe_edelwyn.jpg alt="cartel de mon oeuvre" width="250">
