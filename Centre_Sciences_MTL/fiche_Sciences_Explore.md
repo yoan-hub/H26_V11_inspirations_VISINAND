@@ -87,19 +87,6 @@ Dispositif interactif
 
 >Ecran (Photo: Yoan Visinand)
 
-<img src=photos-oeuvre/Composantes_Techniques_TV_Cadothique.jpg alt="photo de affiche de l'expostion" width="250">
-
->Télévision cadothiques (Photo: Yoan Visinand)
-
-<img src=photos-oeuvre/Composantes_Techniqus_Raspberry_Pi_Ecran.jpg alt="photo de affiche de l'expostion" width="250">
-
->Ecran raspberry pi (Photo: Yoan Visinand)
-
-
-
-
-
-
 
 <br>
 <br>
