@@ -86,7 +86,7 @@ MECA500 est un dispositif sous forme de robot. Celui-ci est constitué d'un bras
 
 
 # Mon Parcours
-
+Durant ma visite de l'exposition, j'ai remarqué qu'il n'avait pas de fils dans le chemin, tout le branchement de chaque dispositifs était caché. (surement pour éviter que des enfants trébuche)
 
 ## Expérience vécue
 
