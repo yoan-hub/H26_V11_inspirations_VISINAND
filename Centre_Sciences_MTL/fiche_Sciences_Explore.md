@@ -100,7 +100,8 @@ Malgré les mouvement limités, c'était très interessant de pouvoir décider d
 
 ### Ce qu'on doit amélioré
 Les mouvements du robot étaient limités, les expressions aussi. <br> 
-Les actions du robot était plutôt lentes 
+Les actions du robot était plutôt lentes <br> 
+L'ajout de couleur dans l'écran aurait pu être interessant
 
 <br>
 <br>
