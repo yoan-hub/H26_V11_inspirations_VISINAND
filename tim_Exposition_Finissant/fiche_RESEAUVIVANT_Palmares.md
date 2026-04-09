@@ -9,7 +9,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 
 <img src=photo-palamres/palamares_termianl.jpg alt="" width="400">
 
-> photo de l'instalation *terminal* (photo: Yoan Visinand)
+> photo de l'instalation *terminal* (photo: Ahmed El-Mekari)
 
 <img src=photo-palamres/croquis_terminal.png alt="" width="300">
 
@@ -32,7 +32,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 
 <img src=photo-palamres/palmares_symbiose.jpg alt="" width="400">
 
-> photo de l'instalation *Symbiose* (photo: Ahmed)
+> photo de l'instalation *Symbiose* (photo: Ahmed El-Mekari)
 
 <img src=photo-palamres/croquis_symbiose.png alt="" width="300">
 
@@ -54,7 +54,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 
 <img src=photo-palamres/palmares_mission.jpg alt="" width="400">
 
-> photo de l'instalation *Mission Décollage* (photo: Ahmed)
+> photo de l'instalation *Mission Décollage* (photo: Ahmed El-Mekari)
 
 <img src=photo-palamres/croquis_mission.png alt="" width="300">
 
@@ -77,7 +77,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 
 <img src=photo-palamres/palamares_ocean_rouge.jpg alt="" width="400">
 
-> photo de l'instalation *Ocean Rouge* (photo: Ahmed)
+> photo de l'instalation *Ocean Rouge* (photo: Ahmed El-Mekari)
 
 <img src=photo-palamres/croquis_ocean_rouge.png alt="" width="300">
 
@@ -97,7 +97,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 
 <img src=photo-palamres/palmares_abre_face.jpg alt="" width="400">
 
-> photo de l'instalation *Arbre En Face* (photo: Ahmed)
+> photo de l'instalation *Arbre En Face* (photo: Ahmed El-Mekari)
 
 <img src=photo-palamres/croquis_abre_face.jpg alt="" width="300">
 
