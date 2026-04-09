@@ -96,7 +96,7 @@ https://youtube.com/shorts/pHULWOA4yv8?si=zkHEo4Fbyp1Ng3Fs
 >Video de MECA500 en fonction (Photo: Yoan Visinand)
 
 ### Ce qui m'a plus
-C'était très interessant de pouvoir décider des séquences de mouvement et expression du robot par moi même
+Malgré les mouvement limités, c'était très interessant de pouvoir décider des séquences de mouvement et expression du robot. Surtout parcequ'il avait un gros nombres de combinaisons possible, donc une grande diversité.
 
 ### Ce qu'on doit amélioré
 Les mouvements du robot étaient limités, les expressions aussi. <br> 
