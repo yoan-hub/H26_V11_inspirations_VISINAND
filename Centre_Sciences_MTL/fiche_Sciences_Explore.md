@@ -99,7 +99,8 @@ https://youtube.com/shorts/pHULWOA4yv8?si=zkHEo4Fbyp1Ng3Fs
 C'était très interessant de pouvoir décider des séquences de mouvement et expression du robot par moi même
 
 ### Ce qu'on doit amélioré
-Les mouvements et les expressions du robot était limités
+Les mouvements du robot étaient limités, les expressions aussi. <br> 
+Les actions du robot était plutôt lentes 
 
 <br>
 <br>
