@@ -22,6 +22,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 -  Émeryk Bélisle
 -   Elie Daher
 ### Mon expérience
+l'oeuvre terminal était très proche d'être ma préféré, l'athmosphère avec les mini sofa était superbes. La connexion et les contrôle était fluide, même si un joueur quittait la partie. 
 
 <br>
 <br>
@@ -44,6 +45,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 - Walid Cheour
 - Benjamin Ferland
 ### Mon expérience
+J'ai adoré Symbiose, les contrôles étaient intuitifs et responsifs. Le jeux lui même était amusant et les podiums étaients bien faits. Ma seule déception c'est le jeu devenait répétitif.
 
 <br>
 <br>
@@ -67,6 +69,7 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 - Thearylou Lach
 - Radhouane Kordan
 ### Mon expérience
+J'aimais l'environement et le design du jeu, par contre les contrôles étaient *overwhelming* et il était difficile de si habitué
 
 <br>
 <br>
@@ -110,4 +113,5 @@ Voici mon classement des oeuvre, excluant la #1 qui est mon oeuvre choisie.
 - Matis Ghariani
 - Rafael Angon Dubé
 ### Mon expérience
+L'expérience était amusante, le style visuel aussi, la partie la plus intéressante pour moi, était les visage qui apparaissait. Par contre, le dispositif était un peu glitchy selon moi.
 
