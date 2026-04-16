@@ -17,7 +17,7 @@
 
 # Oeuvre: MECA500
 Dispositif interactif
-### Année de création: ???
+### Année de création: Mai 2019
 <img src=photo_sciences/Oeuvre_Vue_Esemble.jpg alt="Vue d'ensemble du dispositif" width="550">
 
 >Vue d'ensemble du dispositif (Photo: Yoan Visinand)
@@ -109,3 +109,4 @@ L'ajout de couleur dans l'écran aurait pu être interessant
 
 # Réferences
 https://www.centredessciencesdemontreal.com/
+https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/
